@@ -51,7 +51,6 @@ pytz==2022.2.1
 requests==2.27.1
 seaborn==0.12.2
 six==1.16.0
-sklearn==0.0.post7
 soupsieve==2.3.1
 SQLAlchemy==1.4.32
 tzdata==2023.3
